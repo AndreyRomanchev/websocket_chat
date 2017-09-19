@@ -17,3 +17,4 @@ _build
 websocket_chat.iml
 *.log
 .vagrant
+salt/keys/*.p*
