@@ -15,3 +15,5 @@ logs
 _build
 .idea
 websocket_chat.iml
+*.log
+.vagrant
