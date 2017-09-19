@@ -18,3 +18,4 @@ websocket_chat.iml
 *.log
 .vagrant
 salt/keys/*.p*
+salt/etc/minion
